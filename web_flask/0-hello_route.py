@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""Thisis the starting of the project, to print Hello HBNB!
+"""
+
 from flask import Flask
 
 app = Flask(__name__)
